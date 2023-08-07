@@ -1,4 +1,4 @@
-def max(l):
+def custom_max(l):
     m = l[0]
     im = 0
     b = len(l)
